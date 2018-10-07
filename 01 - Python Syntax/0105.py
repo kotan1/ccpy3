@@ -1,0 +1,1 @@
+todays_date = "October 4, 2018"
