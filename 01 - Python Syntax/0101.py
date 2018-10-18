@@ -1,1 +1,1 @@
-print "kotan"
+print("kotan")
